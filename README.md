@@ -6,6 +6,8 @@ Pagina oficial/ Official website: https://micatalogo.netlify.app/
 
 Instagram: https://www.instagram.com/micatalogonline/
 
+Twitter: https://twitter.com/CatalogoMi
+
 
 ## Que es? What is it?
 
