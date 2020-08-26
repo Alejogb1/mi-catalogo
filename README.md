@@ -1,9 +1,15 @@
 # MiCatálogo
+
 Tienda Online - Online Shop
+
+Pagina oficial/ Official website: https://micatalogo.netlify.app/
+
+Instagram: https://www.instagram.com/micatalogonline/
+
 
 ## Que es? What is it?
 
-Una tienda online que te permite agregar artículos y productos a tu carrito y realizar un pedido a través de WhatsApp.
+Una tienda online que te permite agregar artículos y productos a tu carrito y realizar un pedido a través de *WhatsApp*.
 
 An online shop that allows you to add items to your cart and make an order via WhatsApp.
 
