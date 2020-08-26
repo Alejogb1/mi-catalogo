@@ -17,7 +17,7 @@ An online shop that allows you to add items to your cart and make an order via W
 
 No, unicamente puedes acceder a usar a tener una tienda online, comprando una subcricipción mensual. Para mas información visitá: https://micatalogo.netlify.app/ o https://www.instagram.com/micatalogonline/
 
-No, you are only able to sell using this code by buying a monthly subscription that will allow you to have everything that this Online Shop can offer. For more information you should reach me to my Twitter: @alejogb1, such as this service it is offered for the Spanish community you may not understand the official website or it's Instagram where I give all the information on how to subscribe.
+No, you are only able to sell using this code by buying a monthly subscription that will allow you to have everything that this Online Shop can offer. For more information you should reach me to my Twitter (@alejogb1): https://twitter.com/alejogb1, such as this service it is offered for the Spanish community you may not understand the official website or it's Instagram where I give all the information on how to subscribe.
 
 
 
