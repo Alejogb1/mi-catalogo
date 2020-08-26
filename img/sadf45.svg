@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="240px" viewBox="0 0 960 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>sadf45</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="59.8432674" width="120" height="60"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reuss" transform="translate(0.000000, -240.000000)">
+            <g id="Reuss-Copy">
+                <g id="sadf45" transform="translate(480.000000, 360.000000) scale(1, -1) rotate(-180.000000) translate(-480.000000, -360.000000) translate(0.000000, 240.000000)">
+                    <g id="Group-50">
+                        <rect id="Shape" fill="#FFFFFF" fill-rule="nonzero" x="240" y="0" width="120" height="120"></rect>
+                        <path d="M359.877348,13.8 L359.877348,13.8 L359.877348,86.8773481 C359.877348,105.102745 345.102745,119.877348 326.877348,119.877348 L253.8,119.877348 C253.8,61.2924464 301.292446,13.8 359.877348,13.8 Z" id="Shape" fill="#547A87" fill-rule="nonzero"></path>
+                        <circle id="Shape" fill="#FF7468" fill-rule="nonzero" cx="339.61326" cy="101.552486" r="9.44751381"></circle>
+                        <rect id="Shape" fill="#B7E2DD" fill-rule="nonzero" transform="translate(300.000000, 180.000000) rotate(180.000000) translate(-300.000000, -180.000000) " x="240" y="120" width="120" height="120"></rect>
+                        <circle id="Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(299.834254, 180.497238) rotate(180.000000) translate(-299.834254, -180.497238) " cx="299.834254" cy="180.497238" r="34.640884"></circle>
+                        <polygon id="Shape" fill="#547A87" fill-rule="nonzero" transform="translate(299.668508, 180.331492) rotate(180.000000) translate(-299.668508, -180.331492) " points="300.144496 179.931416 308.950276 179.931416 308.950276 180.891598 300.144496 180.891598 300.144496 189.61326 299.033857 189.61326 299.033857 180.891598 290.38674 180.891598 290.38674 179.931416 299.033857 179.931416 299.033857 171.049724 300.144496 171.049724"></polygon>
+                        <rect id="Shape" fill="#B7E2DD" fill-rule="nonzero" x="360" y="0" width="120" height="120"></rect>
+                        <path d="M480,0 L480,0 L480,60 C480,93.137085 453.137085,120 420,120 L360,120 C360,53.72583 413.72583,1.21743675e-14 480,0 Z" id="Shape" fill="#87C5B4" fill-rule="nonzero" transform="translate(420.000000, 60.000000) scale(1, -1) translate(-420.000000, -60.000000) "></path>
+                        <rect id="Shape" fill="#97D0C0" fill-rule="nonzero" transform="translate(180.000000, 60.000000) rotate(180.000000) translate(-180.000000, -60.000000) " x="120" y="0" width="120" height="120"></rect>
+                        <path d="M240,0 L240,0 C240,66.27417 186.27417,120 120,120 L120,120 C120,53.72583 173.72583,1.21743675e-14 240,0 Z" id="Shape" fill="#B7E2DD" fill-rule="nonzero" transform="translate(180.000000, 60.000000) scale(-1, 1) rotate(-180.000000) translate(-180.000000, -60.000000) "></path>
+                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(540.000000, 60.000000) scale(-1, -1) rotate(-180.000000) translate(-540.000000, -60.000000) " points="480 0 600 0 600 120 480 120"></polygon>
+                        <path d="M513,0 L600,0 C600,66.27417 546.27417,120 480,120 L480,120 L480,33 C480,14.7746033 494.774603,3.34795107e-15 513,0 Z" id="Shape" fill="#FF7468" fill-rule="nonzero" transform="translate(540.000000, 60.000000) scale(-1, -1) rotate(-180.000000) translate(-540.000000, -60.000000) "></path>
+                        <rect id="Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(660.000000, 60.000000) scale(-1, -1) rotate(-90.000000) translate(-660.000000, -60.000000) " x="600" y="0" width="120" height="120"></rect>
+                        <path d="M706.2,13.8 L706.2,13.8 L706.2,86.8773481 C706.2,105.102745 691.425397,119.877348 673.2,119.877348 L600.122652,119.877348 C600.122652,61.2924464 647.615098,13.8 706.2,13.8 Z" id="Shape" fill="#547A87" fill-rule="nonzero" transform="translate(653.161326, 66.838674) scale(-1, -1) rotate(-90.000000) translate(-653.161326, -66.838674) "></path>
+                        <circle id="Shape" fill="#FF7468" fill-rule="nonzero" transform="translate(618.447514, 99.613260) scale(-1, -1) rotate(-90.000000) translate(-618.447514, -99.613260) " cx="618.447514" cy="99.6132597" r="9.44751381"></circle>
+                        <rect id="Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(60.000000, 60.000000) scale(-1, -1) rotate(-90.000000) translate(-60.000000, -60.000000) " x="0" y="0" width="120" height="120"></rect>
+                        <rect id="Shape" fill="#B7E2DD" fill-rule="nonzero" transform="translate(900.000000, 60.000000) scale(1, -1) rotate(-450.000000) translate(-900.000000, -60.000000) " x="840" y="0" width="120" height="120"></rect>
+                        <path d="M960,0 L960,0 L960,60 C960,93.137085 933.137085,120 900,120 L840,120 C840,53.72583 893.72583,1.21743675e-14 960,0 Z" id="Shape" fill="#87C5B4" fill-rule="nonzero" transform="translate(900.000000, 60.000000) rotate(450.000000) translate(-900.000000, -60.000000) "></path>
+                        <g id="Module" transform="translate(780.000000, 180.000000) scale(1, -1) rotate(-180.000000) translate(-780.000000, -180.000000) translate(720.000000, 120.000000)">
+                            <rect id="Shape" fill="#81B0BD" fill-rule="nonzero" x="0" y="0" width="120" height="120"></rect>
+                            <ellipse id="Shape" fill="#547A87" fill-rule="nonzero" cx="60.0265193" cy="58.8105381" rx="49.2265193" ry="48.6105381"></ellipse>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Shape" fill="#F9E200" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <ellipse id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" cx="59.9707919" cy="59.805354" rx="49.1707919" ry="48.5620866"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
