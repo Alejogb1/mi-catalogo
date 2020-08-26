@@ -1,2 +1,2 @@
-# mi-catalogo
+# MiCatálogo
 Tienda Online - Online Shop
