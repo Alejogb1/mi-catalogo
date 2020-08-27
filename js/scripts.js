@@ -14,20 +14,20 @@ function addToModalClicked (event){
     let button = event.target
     console.log("BOTON",button)
     let shopItem = button.parentElement.parentElement;
-    //let productImage = shopItem.getElementsByClassName("card-image")[0].src;
+    let productImage = shopItem.getElementsByClassName("card-image")[0].src;
     let producTitle = shopItem.getElementsByClassName("card-title")[0].innerText;
     let description = shopItem.getElementsByClassName("card-text")[0].innerText;
     let spanDescription = shopItem.getElementsByClassName("not-display")[0].innerText
     let productPrice = shopItem.getElementsByClassName("card-price")[0].innerText;
     console.log(shopItem, producTitle, description, productPrice)
-    ModalProductos(/*productImage,*/ producTitle, description, productPrice, spanDescription);
+    ModalProductos(productImage, producTitle, description, productPrice, spanDescription);
 }
 function resetearCantidad (){
   $('#sel1').prop('selectedIndex',0);
   spanItems.textContent = "1 Item"
 }
-function ModalProductos (/*image,*/ title, description, price, notShownDescription){
-   // document.querySelector("#exampleModalImage").src = image;
+function ModalProductos (image, title, description, price, notShownDescription){
+    document.querySelector("#exampleModalImage").src = image;
     document.querySelector("#exampleModalLabel").textContent = title;
     document.querySelector("#modalText").textContent = (description +" " + notShownDescription).replace("...", ".");
     document.querySelector("#price-span").innerText = price;
@@ -111,7 +111,7 @@ function ModalPedidos (title, price, cantidad, total){
       for (let i = 0; i < itemsPedido.length; i++){
           if(itemsPedido[i].textContent == title){
             borrarItem(document.querySelector("#price-span").textContent);
-            return alert("Product already added")
+            return alert("Ya lo agregaste a tu pedido")
           }
       }
      if (numeroPedidos === 0){
@@ -120,11 +120,11 @@ function ModalPedidos (title, price, cantidad, total){
        agregarMasItems(title, price, cantidad, total)
     } else if (numeroPedidos >= 2){
       borrarItem(document.querySelector("#price-span").textContent)
-       alert("You cannot add more products")
+       alert("No puedes agregar mas productos")
       return
     } 
     else {
-         alert("Something went wrong")
+         alert("Algo salió mal")
      }
      NumeroPedidos()
 }
@@ -163,7 +163,7 @@ botonContinuar.onclick = function(){
           event.preventDefault();
           // your validations
           if((formaDePago && tipoDeEnvio) == ""){
-              alert("Fill in the required spaces.")
+              alert("Completa los espacios requeridos.")
               
              valid = false;
              console.log("falso")
@@ -175,14 +175,14 @@ botonContinuar.onclick = function(){
             let cantidadUno = document.querySelectorAll("#sel2")[0].value
             let total = document.querySelector("#total-estimado").textContent
             if(numeroPedidos === 1){
-              let pedido1Item = `*ORDER: CheeseShop* %0a%0a— *[ ${cantidadUno} ]* ${productoUno} > *${precioUno}*%0a%0a*Total:* ${total}%0a%0aType of shipping: *${tipoDeEnvio}*%0aPayment: *${formaDePago}*%0a`;
-              window.open("https://api.whatsapp.com/send?phone=5493813152876&text=" + pedido1Item);
+              let pedido1Item = `*PEDIDO: Eco-Lapacho* %0a%0a— *[ ${cantidadUno} ]* ${productoUno} > *${precioUno}*%0a%0a*Total:* ${total}%0a%0aTipo de envío: *${tipoDeEnvio}*%0aForma de pago: *${formaDePago}*%0a`;
+              window.open("https://api.whatsapp.com/send?phone=5493816922278&text=" + pedido1Item);
             } else if (numeroPedidos > 1){
               let productoDos = document.querySelectorAll("#exampleModalLabel2")[1].textContent
               let cantidadDos = document.querySelectorAll("#sel2")[1].value
               let precioDos =  document.querySelectorAll("#price-span2")[1].textContent
-              let pedido2Item = `*ORDER: CheeseShop* %0a%0a— *[ ${cantidadUno} ]* ${productoUno} > *${precioUno}*%0a— *[ ${cantidadDos} ]* ${productoDos} > *${precioDos}* %0a %0a*Total:* ${total}%0a%0aType of shipping: *${tipoDeEnvio}*%0aPayment: *${formaDePago}*%0a`;
-              window.open("https://api.whatsapp.com/send?phone=5493813152876&text=" + pedido2Item);
+              let pedido2Item = `*PEDIDO: Eco-Lapacho* %0a%0a— *[ ${cantidadUno} ]* ${productoUno} > *${precioUno}*%0a— *[ ${cantidadDos} ]* ${productoDos} > *${precioDos}* %0a %0a*Total:* ${total}%0a%0aTipo de envío: *${tipoDeEnvio}*%0aForma de pago: *${formaDePago}*%0a`;
+              window.open("https://api.whatsapp.com/send?phone=5493816922278&text=" + pedido2Item);
             }
           }   
 }
