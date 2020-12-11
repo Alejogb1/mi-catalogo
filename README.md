@@ -17,9 +17,9 @@ An online shop that allows you to add items to your cart and make an order via W
 
 ### Como fue hecho? How was it done?
 
-Simple. Usé HTML, CSS y Javascript. Para eso tuve que usar Jquery para manipular los objectos de la página en orden de que se actualizaran los precios y fotos. Para hacerque se muestren los detalles de los productos y de los pedidos, utilizé los Modals de Bootstrap los cuales te permiten mostrar un modal (pantall emergente) de manera sencilla. Si quieres saber mas, puedes leer el codigo o sino estar atento a mi Twitter que dentro de poco estaré subiendo tutoriales de como hacer una tienda como esta desede 0.
+Simple. Usé HTML, CSS y Javascript. Para eso tuve que usar DOM para manipular los objectos de la página en orden de que se actualizaran los precios y fotos. Para hacerque se muestren los detalles de los productos y de los pedidos, utilizé los Modals de Bootstrap los cuales te permiten mostrar un modal (pantall emergente) de manera sencilla. Si quieres saber mas, puedes leer el codigo o sino estar atento a mi Twitter que dentro de poco estaré subiendo tutoriales de como hacer una tienda como esta desede 0.
 
-Simple. I used HTML, CSS and Javascript. I had to use Jquery to manipulate the page objects in order for the prices and photos to be updated. To show the details of the products and the orders, I used the Bootstrap Modals which allows you to display a modal (pop-up screen) in a simple way. If you want to know more, you can read the code or pay attention to my Twitter that shortly I will be uploading tutorials on how to make a store like this from scratch.
+Simple. I used HTML, CSS and Javascript. I had to use DOM to manipulate the page objects in order for the prices and photos to be updated. To show the details of the products and the orders, I used the Bootstrap Modals which allows you to display a modal (pop-up screen) in a simple way. If you want to know more, you can read the code or pay attention to my Twitter that shortly I will be uploading tutorials on how to make a store like this from scratch.
 
 
 ###  Puedo usar el codigo para armar la tienda de mi local? Can I use this code to set up an online shop for my real store?
